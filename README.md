@@ -1,7 +1,5 @@
 # Hi 👋 I'm Jubril Adams
 
-> IT Support Technician & Cloud Systems Administrator with hands-on experience across AWS, Azure, Active Directory, and ServiceNow. I specialize in identity management, automation with PowerShell/Terraform, and building secure, scalable cloud infrastructure.
-
 **IT Support Technician | Cloud Systems Administrator | AWS | Azure | Active Directory | ServiceNow | PowerShell**  
 📍 Palatine, Illinois, United States  
 
