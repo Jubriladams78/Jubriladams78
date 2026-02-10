@@ -1,83 +1,80 @@
 # Hi 👋 I’m Jubril Adams  
-**Cloud Systems Administrator | IT Support Engineer | Junior DevOps**
 
-I build, support, and maintain secure, reliable, and scalable infrastructure across cloud and hybrid environments. My background combines hands-on IT support with real-world cloud systems administration, giving me a strong foundation in both user-facing operations and backend infrastructure.  
+> IT Support Technician & Cloud Systems Administrator with hands-on experience across AWS, Azure, Active Directory, and ServiceNow. I specialize in identity management, automation with PowerShell/Terraform, and building secure, reliable cloud and hybrid environments.
 
-I enjoy automating processes, improving system reliability, and learning modern cloud and DevOps practices through hands-on labs and real projects.
-
----
-
-## ☁️ What I Work With
-
-### Cloud & Infrastructure
-- **AWS:** EC2, S3, VPC, IAM, Lambda, CloudWatch, CloudFormation  
-- **Azure:** Virtual Machines, Azure Storage, Active Directory, ARM Templates  
-- **Hybrid Environments:** Cloud + on-prem systems  
-
-### Systems Administration
-- Linux & Windows Server administration  
-- Active Directory, Group Policy, IAM  
-- Patch management, system hardening, endpoint support  
-
-### DevOps & Automation
-- PowerShell, Bash, Python scripting  
-- Terraform for Infrastructure as Code  
-- CI/CD with GitHub Actions  
-- Monitoring, logging, and cost optimization  
-
-### Networking & Security
-- DNS, VPNs, firewalls, access control  
-- Incident and problem management  
-- Secure identity and access practices  
+**IT Support Technician | Cloud Systems Administrator | AWS | Azure | Active Directory | ServiceNow | PowerShell**  
+📍 Palatine, Illinois, United States  
 
 ---
 
-## 💼 What I Do
+## 👨‍💻 About Me
 
-### IT Support Technician — Aurora Home Care Inc.
-- Support 500+ users through Active Directory and ServiceNow  
-- Resolve 40+ daily access and security requests  
-- Manage 100+ concurrent incidents while maintaining 100% SLA compliance  
-- Use PowerShell automation to reduce manual effort and improve response times  
+I am an experienced IT Support Technician and Cloud Systems Administrator with hands-on expertise in identity management, ticketing systems, and cloud infrastructure support. I currently support 500+ users at Aurora Home Care Inc. by administering Active Directory, managing incidents through ServiceNow, and using PowerShell automation to maintain SLA compliance and operational efficiency.  
 
-### Cloud Administrator (Linux / Windows) — Clearbrook
-- Deploy and manage cloud infrastructure on AWS and Azure  
-- Automate high-availability environments using Terraform and GitHub Actions  
-- Secure cloud resources with Azure Key Vault, Managed Identities, and RBAC  
-- Monitor performance and costs, reducing monthly cloud spend by 20%  
+In parallel, I work as a Cloud Administrator supporting AWS and Azure environments, managing Windows and Linux servers, and automating infrastructure across hybrid and cloud-based environments. I am open to opportunities in IT Support, Cloud Systems Administration, and Infrastructure Engineering.
 
 ---
 
-## 🎯 What I’m Learning Right Now
+## 🧰 Technical Skills
 
-- Advanced Linux system administration  
-- Cloud architecture best practices (AWS, Azure, GCP)  
-- Kubernetes for container orchestration and scaling  
-- Terraform for Infrastructure as Code  
-- DevSecOps fundamentals  
-- Python for automation and tooling  
+- **Cloud:** AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch, CloudFormation), Azure (VMs, Storage, AD, ARM)  
+- **Systems:** Windows Server, Linux (Debian, Arch), Active Directory, Group Policy  
+- **Automation:** PowerShell, Bash, Python, Terraform, GitHub Actions  
+- **IT Ops:** ServiceNow, SLA-driven support, documentation  
+- **Networking & Security:** DNS, VPNs, firewalls, IAM, monitoring  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Cloud Infrastructure Automation (AWS & Azure)
+**Tech:** Terraform, GitHub Actions, AWS, Azure, PowerShell  
+- Automated deployment of secure, highly available cloud infrastructure using IaC.  
+- Provisioned compute, networking, and IAM with security-first design.  
+- Implemented monitoring and cost-optimization best practices.  
+🔗 Repo: [https://github.com/Jubriladams78/cloud-infrastructure-automation](https://github.com/Jubriladams78/cloud-infrastructure-automation)
+
+### 🔹 Active Directory & Identity Management Lab
+**Tech:** Windows Server, Active Directory, Group Policy, PowerShell  
+- Built a multi-OU enterprise-style Active Directory environment.  
+- Applied GPOs for security baselines and access control.  
+- Automated user provisioning and access changes.  
+🔗 Repo: [https://github.com/Jubriladams78/active-directory-lab](https://github.com/Jubriladams78/active-directory-lab)
+
+### 🔹 ServiceNow Incident Management Automation
+**Tech:** ServiceNow, PowerShell  
+- Simulated high-volume ITSM workflows.  
+- Automated common Tier 2 support tasks to improve SLA compliance.  
+- Created documentation to improve first-call resolution.  
+🔗 Repo: [https://github.com/Jubriladams78/servicenow-automation-labs](https://github.com/Jubriladams78/servicenow-automation-labs)
+
+### 🔹 Secure Cloud Networking Architecture
+**Tech:** Azure VNet, NSGs, VPNs, AWS VPC  
+- Designed segmented, least-privilege cloud networks.  
+- Implemented secure hybrid connectivity.  
+- Focused on traffic isolation and workload protection.  
+🔗 Repo: [https://github.com/Jubriladams78/secure-cloud-networking](https://github.com/Jubriladams78/secure-cloud-networking)
 
 ---
 
 ## 🏆 Certifications
 
-- CompTIA A+  
-- CompTIA Network+  
-- CompTIA Security+  
-- ITIL® 4 Foundation  
-- Linux Essentials  
-- AWS Certified Cloud Practitioner  
-- AWS Certified Solutions Architect – Associate  
+- CompTIA A+ · Network+ · Security+ · ITIL® 4 Foundation · Linux Essentials  
+- AWS Certified Cloud Practitioner · AWS Solutions Architect – Associate  
 - Microsoft Azure Fundamentals (AZ-900)  
 
 ---
 
-## 🌍 About Me
+## 📊 GitHub Stats & Activity
 
-- 📍 Based in Palatine, Illinois (Chicago area)  
-- 🤝 Open to collaboration on cloud, automation, and infrastructure projects  
-- 📚 Passionate about continuous learning and sharing knowledge  
-- 🛠 I document my journey through labs, projects, and GitHub repositories  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jubriladams78&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubriladams78&hide_border=true" height="150" />
+</p>
 
-**📫 Contact:** [Jubriladams78@yahoo.com](mailto:Jubriladams78@yahoo.com)  
-**🔗 LinkedIn:** [https://www.linkedin.com/in/jubriladams](https://www.linkedin.com/in/jubriladams)
+---
+
+## 🤝 Let’s Connect
+
+📧 [adam.jubril78@yahoo.com](mailto:Jubriladams78@yahoo.com)  
+🔗 [LinkedIn – Jubril Adams](https://www.linkedin.com/in/jubriladams)
