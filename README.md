@@ -1,46 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jubril Adams
-=====================================================================================================================================
+# Hi 👋 I’m Jubril Adams  
+**Cloud Systems Administrator | IT Support Engineer | Junior DevOps**
 
-System Administrator | Multi-Cloud Engineer | Junior DevOps
------------------------------------------------------------
+I build, support, and maintain secure, reliable, and scalable infrastructure across cloud and hybrid environments. My background combines hands-on IT support with real-world cloud systems administration, giving me a strong foundation in both user-facing operations and backend infrastructure.  
 
-Hi there! I'm passionate about building reliable, secure, and scalable systems.
+I enjoy automating processes, improving system reliability, and learning modern cloud and DevOps practices through hands-on labs and real projects.
 
-I specialize in:
+---
 
-\- Operating Systems: Linux & Windows Server
+## ☁️ What I Work With
 
-\- Cloud Platforms: AWS | Azure | GCP
+### Cloud & Infrastructure
+- **AWS:** EC2, S3, VPC, IAM, Lambda, CloudWatch, CloudFormation  
+- **Azure:** Virtual Machines, Azure Storage, Active Directory, ARM Templates  
+- **Hybrid Environments:** Cloud + on-prem systems  
 
-\- DevOps & Automation: Infrastructure as Code, CI/CD, Scripting
+### Systems Administration
+- Linux & Windows Server administration  
+- Active Directory, Group Policy, IAM  
+- Patch management, system hardening, endpoint support  
 
-\- Networking & Security: Hybrid and Multi-Cloud Architecture
+### DevOps & Automation
+- PowerShell, Bash, Python scripting  
+- Terraform for Infrastructure as Code  
+- CI/CD with GitHub Actions  
+- Monitoring, logging, and cost optimization  
 
-I focus on automating infrastructure, improving system performance, and ensuring secure deployments across environments.
+### Networking & Security
+- DNS, VPNs, firewalls, access control  
+- Incident and problem management  
+- Secure identity and access practices  
 
-* 🌍  I'm based in Chicago
-* ✉️  You can contact me at [Jubriladams78@yahoo.com](mailto:Jubriladams78@yahoo.com)
-* 🧠  I'm currently learning Advanced Linux system administration ,Cloud architecture best practices across AWS, Azure & GCP - Kubernetes for container orchestration and scaling - Terraform for infrastructure as code - DevSecOps to integrate security into DevOps pipelines - Python scripting for automation and tooling
-* 👥  I'm looking to collaborate on Projects
-* 💬  Ask me about I'm passionate about continuous learning and sharing knowledge. I document my tech journey through blogs, labs, and GitHub repos. Always open to collaboration, mentorship, and community learning. Outside of tech, I enjoy reading, volunteering, and building my personal brand (JJADAMS Empire).
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby" title="Ruby" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
-</p>
+## 💼 What I Do
 
-### Socials
+### IT Support Technician — Aurora Home Care Inc.
+- Support 500+ users through Active Directory and ServiceNow  
+- Resolve 40+ daily access and security requests  
+- Manage 100+ concurrent incidents while maintaining 100% SLA compliance  
+- Use PowerShell automation to reduce manual effort and improve response times  
 
-<p align="left"> <a href="https://www.github.com/Jubriladams78" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/Jubriladams78" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/jubriladams" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/JJADAMS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+### Cloud Administrator (Linux / Windows) — Clearbrook
+- Deploy and manage cloud infrastructure on AWS and Azure  
+- Automate high-availability environments using Terraform and GitHub Actions  
+- Secure cloud resources with Azure Key Vault, Managed Identities, and RBAC  
+- Monitor performance and costs, reducing monthly cloud spend by 20%  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Jubriladams78"><img src="https://github-readme-stats.vercel.app/api?username=Jubriladams78&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jubriladams78's GitHub stats" /></a>
+## 🎯 What I’m Learning Right Now
 
-<a href="http://www.github.com/Jubriladams78"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubriladams78&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- Advanced Linux system administration  
+- Cloud architecture best practices (AWS, Azure, GCP)  
+- Kubernetes for container orchestration and scaling  
+- Terraform for Infrastructure as Code  
+- DevSecOps fundamentals  
+- Python for automation and tooling  
 
-<a href="https://github.com/Jubriladams78" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubriladams78&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## 🏆 Certifications
 
-<div width="100%" align="center"><a href="https://github.com/Jubriladams78/jubriladams78" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubriladams78&repo=jubriladams78&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+- CompTIA A+  
+- CompTIA Network+  
+- CompTIA Security+  
+- ITIL® 4 Foundation  
+- Linux Essentials  
+- AWS Certified Cloud Practitioner  
+- AWS Certified Solutions Architect – Associate  
+- Microsoft Azure Fundamentals (AZ-900)  
+
+---
+
+## 🌍 About Me
+
+- 📍 Based in Palatine, Illinois (Chicago area)  
+- 🤝 Open to collaboration on cloud, automation, and infrastructure projects  
+- 📚 Passionate about continuous learning and sharing knowledge  
+- 🛠 I document my journey through labs, projects, and GitHub repositories  
+
+**📫 Contact:** [Jubriladams78@yahoo.com](mailto:Jubriladams78@yahoo.com)  
+**🔗 LinkedIn:** [https://www.linkedin.com/in/jubriladams](https://www.linkedin.com/in/jubriladams)
