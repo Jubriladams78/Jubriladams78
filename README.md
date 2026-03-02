@@ -1,96 +1,145 @@
-# Hi 👋 I'm Jubril Adams
+<div align="center">
 
-**IT Support Technician | Cloud Systems Administrator | AWS | Azure | Active Directory | ServiceNow | PowerShell**  
-📍 Palatine, Illinois, United States  
+# Hi, I'm Jubril Adams 👋
+
+### Azure & Cloud Administrator | AZ-104 | AWS | Terraform | IaC | Active Directory
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jubriladams-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jubriladams)
+[![Email](https://img.shields.io/badge/Email-adam.jubril78@yahoo.com-D14836?style=for-the-badge&logo=yahoo)](mailto:adam.jubril78@yahoo.com)
+[![Location](https://img.shields.io/badge/Location-Palatine%2C_IL-green?style=for-the-badge&logo=googlemaps)](#)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Cloud_%26_IT_Roles-brightgreen?style=for-the-badge)](#)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an experienced IT Support Technician and Cloud Systems Administrator with hands-on expertise in identity management, ticketing systems, and cloud infrastructure support. I currently support 500+ users across multiple locations, managing incident resolution with a 95% first-call resolution rate and consistently exceeding SLA targets.
+I am a Cloud & IT Administrator with hands-on expertise in **Azure**, **AWS**, **Active Directory**, and **infrastructure automation**. I support enterprise environments supporting 500+ users, managing cloud infrastructure, identity management, and IT operations while consistently exceeding SLA targets.
 
-In parallel, I work as a Cloud Administrator supporting AWS and Azure environments, managing Windows and Linux servers, and automating infrastructure across hybrid and cloud-based environments. I am passionate about Infrastructure as Code, security best practices, and leveraging automation to improve operational efficiency while reducing manual toil.
+- 🔭 Currently studying for **AZ-104: Microsoft Azure Administrator** at WGU (B.S. Cloud & Network Engineering)
+- 🌱 Building hands-on labs in Azure, Terraform, and PowerShell automation
+- 💼 Open to **Cloud Administrator**, **Azure Admin**, or **Cloud Support Engineer** roles in the Chicago, IL area
+- 🏆 95% first-call resolution rate supporting multi-location enterprise environments
+- ⚡ Passionate about **Infrastructure as Code**, **security best practices**, and eliminating manual toil through automation
 
 ---
 
 ## 🧰 Technical Skills
 
-- **Cloud:** AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch, CloudFormation), Azure (VMs, Storage, AD, ARM)  
-- **Systems:** Windows Server, Linux (Debian, Arch), Active Directory, Group Policy, GPO management  
-- **Automation:** PowerShell, Bash, Python, Terraform, GitHub Actions  
-- **IT Ops:** ServiceNow, SLA-driven support, incident management, ITSM workflows  
-- **Networking & Security:** DNS, VPNs, firewalls, IAM policies, monitoring, network segmentation  
+| Category | Technologies |
+|---|---|
+| **Cloud Platforms** | Azure (VMs, VNet, NSG, Storage, AD, ARM, Bicep, Monitor), AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch, CloudFormation) |
+| **Identity & Access** | Azure Active Directory, Entra ID, RBAC, MFA, Conditional Access, Group Policy (GPO), On-prem AD DS |
+| **Infrastructure as Code** | Terraform, Azure Bicep, ARM Templates, GitHub Actions CI/CD |
+| **Scripting & Automation** | PowerShell, Bash, Python, Azure CLI |
+| **Systems** | Windows Server 2019/2022, Linux (RHEL/Debian), DNS, DHCP, File Services |
+| **IT Operations** | ServiceNow (ITSM), SLA-driven support, Incident Management, Change Management |
+| **Networking & Security** | VPNs, Firewalls, NSGs, Network Segmentation, DDoS Mitigation, IAM Policies |
+| **Monitoring** | Azure Monitor, Log Analytics, CloudWatch, Alerts & Dashboards |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Cloud Infrastructure Automation (AWS & Azure)
-**Tech:** Terraform, GitHub Actions, AWS, Azure, PowerShell  
-- Automated deployment of secure, highly available cloud infrastructure using Infrastructure as Code (IaC).  
-- Provisioned compute, networking, and IAM with security-first design principles.  
-- Implemented monitoring and cost-optimization best practices, reducing infrastructure costs by 30%.  
-- Managed 50+ infrastructure deployments with zero manual errors through CI/CD automation.  
-🔗 Repo: [https://github.com/Jubriladams78/cloud-infrastructure-automation](https://github.com/Jubriladams78/cloud-infrastructure-automation)
+### ☁️ [Cloud Infrastructure Automation (AWS & Azure)](https://github.com/Jubriladams78/cloud-infrastructure-automation)
+> **Tech Stack:** Terraform · GitHub Actions · Azure · AWS · PowerShell
 
-### 🔹 Active Directory & Identity Management Lab
-**Tech:** Windows Server, Active Directory, Group Policy, PowerShell  
-- Built a multi-OU enterprise-style Active Directory environment mirroring production scenarios.  
-- Applied GPOs for security baselines, access control, and compliance enforcement.  
-- Automated user provisioning and access changes, reducing onboarding time by 40%.  
-- Implemented role-based access control (RBAC) across 200+ test users.  
-🔗 Repo: [https://github.com/Jubriladams78/active-directory-lab](https://github.com/Jubriladams78/active-directory-lab)
-
-### 🔹 ServiceNow Incident Management Automation
-**Tech:** ServiceNow, PowerShell  
-- Simulated high-volume ITSM workflows to improve incident response times.  
-- Automated common Tier 2 support tasks, improving SLA compliance by 35%.  
-- Created comprehensive documentation that improved first-call resolution from 85% to 95%.  
-- Designed workflow automations handling 100+ daily incidents.  
-🔗 Repo: [https://github.com/Jubriladams78/servicenow-automation-labs](https://github.com/Jubriladams78/servicenow-automation-labs)
-
-### 🔹 Secure Cloud Networking Architecture
-**Tech:** Azure VNet, NSGs, VPNs, AWS VPC  
-- Designed segmented, least-privilege cloud networks reducing security exposure by 50%.  
-- Implemented secure hybrid connectivity between on-premises and cloud environments.  
-- Focused on traffic isolation, workload protection, and DDoS mitigation.  
-- Documented network security policies and conducted vulnerability assessments.  
-🔗 Repo: [https://github.com/Jubriladams78/secure-cloud-networking](https://github.com/Jubriladams78/secure-cloud-networking)
+- Automated deployment of secure, highly available cloud infrastructure using IaC principles
+- Provisioned compute, networking (VNets/VPCs), and IAM with security-first design
+- Built CI/CD pipeline with GitHub Actions for automated Terraform plan/apply workflows
+- Implemented tagging strategy and cost-optimization controls, reducing infrastructure costs by 30%
 
 ---
 
-## 📚 Currently Working On
+### 🔐 [Active Directory & Identity Management Lab](https://github.com/Jubriladams78/active-directory-lab)
+> **Tech Stack:** Windows Server 2022 · Active Directory DS · Group Policy · PowerShell
 
-- **Advanced Kubernetes Automation:** Building GitOps workflows with ArgoCD and Helm  
-- **AWS Solutions Architect – Professional Certification:** Deepening cloud architecture expertise  
-- **Infrastructure Compliance Automation:** Implementing automated compliance scanning and remediation  
+- Built multi-OU enterprise-style Active Directory environment mirroring production architecture
+- Applied GPOs for security baselines, software restriction, and compliance enforcement
+- Automated bulk user provisioning with PowerShell scripts, reducing onboarding time by 40%
+- Implemented RBAC across 200+ test user accounts with least-privilege principles
+
+---
+
+### 🌐 [Secure Cloud Networking Architecture](https://github.com/Jubriladams78/secure-cloud-networking)
+> **Tech Stack:** Azure VNet · NSGs · VPN Gateway · AWS VPC · Route Tables
+
+- Designed segmented, least-privilege cloud networks across Azure and AWS environments
+- Implemented hub-spoke VNet topology with peering and centralized firewall controls
+- Configured site-to-site VPN for secure hybrid cloud connectivity
+- Documented network security policies and conducted vulnerability assessments
+
+---
+
+### 🛠️ [ServiceNow Incident Management Automation](https://github.com/Jubriladams78/servicenow-automation-labs)
+> **Tech Stack:** ServiceNow · PowerShell · REST API
+
+- Simulated high-volume ITSM workflows to model enterprise incident response
+- Automated common Tier 2 support tasks improving SLA compliance by 35%
+- Built documentation that improved first-call resolution from 85% to 95%
+- Designed workflow automations handling 100+ daily incidents
+
+---
+
+### ☁️ [Azure Blob Storage Static Website Lab](https://github.com/Jubriladams78/Azure-Project)
+> **Tech Stack:** Azure Blob Storage · Azure CLI · Static Web Hosting
+
+- Deployed a public-facing static website using Azure Blob Storage with static website hosting enabled
+- Configured custom CORS rules and access policies for secure public access
+- Demonstrates real-world Azure Storage account provisioning and cost-optimized web hosting
 
 ---
 
 ## 🏆 Certifications
 
-- CompTIA A+ · Network+ · Security+ · ITIL® 4 Foundation · Linux Essentials  
-- AWS Certified Cloud Practitioner · AWS Solutions Architect – Associate  
-- Microsoft Azure Fundamentals (AZ-900)  
+| Certification | Issuer | Status |
+|---|---|---|
+| AZ-900: Azure Fundamentals | Microsoft | ✅ Earned |
+| AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Earned |
+| AWS Solutions Architect – Associate | Amazon Web Services | ✅ Earned |
+| CompTIA A+ | CompTIA | ✅ Earned |
+| CompTIA Network+ | CompTIA | ✅ Earned |
+| CompTIA Security+ | CompTIA | ✅ Earned |
+| ITIL® 4 Foundation | PeopleCert | ✅ Earned |
+| Linux Essentials | LPI | ✅ Earned |
+| **AZ-104: Azure Administrator** | Microsoft | 🔄 In Progress |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📚 Currently Working On
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jubriladams78&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubriladams78&hide_border=true" height="150" />
-</p>
+- 📘 **AZ-104 Microsoft Azure Administrator** — Labs, Bicep templates, Azure CLI practice
+- 🔧 **Terraform Azure Modules** — Reusable IaC modules for VNets, VMs, and Storage
+- 🔒 **Azure Policy & Compliance Automation** — Automated compliance scanning with Azure Policy
+- 🎓 **B.S. Cloud & Network Engineering** — Western Governors University (WGU)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Jubril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jubriladams78&show_icons=true&hide_border=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubriladams78&layout=compact&hide_border=true&theme=dark)
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-Open to collaboration on cloud infrastructure, automation, and identity management projects.
+I'm open to collaborating on cloud infrastructure, automation, and identity management projects. Whether you're a recruiter, fellow engineer, or cloud enthusiast — let's connect!
 
-📧 [adam.jubril78@yahoo.com](mailto:adam.jubril78@yahoo.com)  
-🔗 [LinkedIn – Jubril Adams](https://www.linkedin.com/in/jubriladams)  
+- 📧 **Email:** [adam.jubril78@yahoo.com](mailto:adam.jubril78@yahoo.com)
+- 💼 **LinkedIn:** [linkedin.com/in/jubriladams](https://www.linkedin.com/in/jubriladams)
+- 📍 **Location:** Palatine, Illinois (Greater Chicago Area)
 
 ---
 
-*Last updated: 2026-02-10 05:26:02*
+<div align="center">
+
+*Last updated: March 2026*
+
+</div>
