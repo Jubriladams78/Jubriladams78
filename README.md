@@ -2,7 +2,7 @@
 
 # Hi, I'm Jubril Adams 👋
 
-### Cloud Support Engineer | Cloud Systems Administrator | Azure & AWS | Terraform | IAM & Active Directory | CompTIA Cloud+
+### Cloud Support Engineer | Cloud Systems Administrator | Azure & AWS | Terraform | IAM & Active Directory | AZ-104 | CompTIA Cloud+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jubriladams-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jubriladams)
 [![Email](https://img.shields.io/badge/Email-jubril@jjadams.net-D14836?style=for-the-badge&logo=gmail)](mailto:jubril@jjadams.net)
@@ -39,7 +39,7 @@ Currently working at **Aurora Home Care Inc** as an IT Support & Cloud Systems A
 ## 🛠️ Tech Stack
 
 **Cloud Platforms**
-- Microsoft Azure (EC2, VNet, NSG, Azure Key Vault, Azure Monitor, Log Analytics, Entra ID)
+- Microsoft Azure (VNet, NSG, Azure Key Vault, Azure Monitor, Log Analytics, Entra ID)
 - AWS (EC2, S3, RDS, VPC, IAM, CloudWatch)
 
 **Infrastructure & IaC**
@@ -85,12 +85,12 @@ Currently working at **Aurora Home Care Inc** as an IT Support & Cloud Systems A
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2026 |
-| CompTIA Cloud+ ce | CompTIA | 2026 |
-| CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA | 2026 |
-| ITIL Foundation | PeopleCert | 2026 |
-| CompTIA Network+ | CompTIA | - |
-| 🔜 AZ-104: Microsoft Azure Administrator | Microsoft | In Progress |
+| ✅ Microsoft Azure Administrator (AZ-104) | Microsoft | 2026 |
+| ✅ Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2026 |
+| ✅ CompTIA Cloud+ ce | CompTIA | 2026 |
+| ✅ CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA | 2026 |
+| ✅ ITIL Foundation | PeopleCert | 2026 |
+| ✅ CompTIA Network+ | CompTIA | - |
 
 ---
 
