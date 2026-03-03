@@ -5,7 +5,7 @@
 ### Azure & Cloud Administrator | AZ-104 | AWS | Terraform | IaC | Active Directory
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jubriladams-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jubriladams)
-[![Email](https://img.shields.io/badge/Email-adam.jubril78@yahoo.com-D14836?style=for-the-badge&logo=yahoo)](mailto:adam.jubril78@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-jubril@jjadams.net-D14836?style=for-the-badge&logo=gmail)](mailto:jubril@jjadams.net)
 [![Location](https://img.shields.io/badge/Location-Palatine%2C_IL-green?style=for-the-badge&logo=googlemaps)](#)
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Cloud_%26_IT_Roles-brightgreen?style=for-the-badge)](#)
 
@@ -132,7 +132,7 @@ I am a Cloud & IT Administrator with hands-on expertise in **Azure**, **AWS**, *
 
 I'm open to collaborating on cloud infrastructure, automation, and identity management projects. Whether you're a recruiter, fellow engineer, or cloud enthusiast — let's connect!
 
-- 📧 **Email:** [adam.jubril78@yahoo.com](mailto:adam.jubril78@yahoo.com)
+- 📧 **Email:** [jubril@jjadams.net](mailto:jubril@jjadams.net)
 - 💼 **LinkedIn:** [linkedin.com/in/jubriladams](https://www.linkedin.com/in/jubriladams)
 - 📍 **Location:** Palatine, Illinois (Greater Chicago Area)
 
