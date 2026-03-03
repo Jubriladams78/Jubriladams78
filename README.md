@@ -83,14 +83,16 @@ Currently working at **Aurora Home Care Inc** as an IT Support & Cloud Systems A
 
 ## 🏅 Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| ✅ Microsoft Azure Administrator (AZ-104) | Microsoft | 2026 |
-| ✅ Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2026 |
-| ✅ CompTIA Cloud+ ce | CompTIA | 2026 |
-| ✅ CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA | 2026 |
-| ✅ ITIL Foundation | PeopleCert | 2026 |
-| ✅ CompTIA Network+ | CompTIA | - |
+| Certification | Issuer | Earned | Expires |
+|---|---|---|---|
+| ✅ Microsoft Azure Administrator Associate (AZ-104) | Microsoft | Feb 27, 2026 | Feb 27, 2027 |
+| ✅ Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | - |
+| ✅ CompTIA Cloud+ ce | CompTIA | Jan 2026 | Jan 2029 |
+| ✅ CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA | Jan 2026 | - |
+| ✅ ITIL Foundation | PeopleCert | Jan 2026 | Jan 2029 |
+| ✅ CompTIA Network+ | CompTIA | - | - |
+
+> **AZ-104 Credential ID:** 3FC7E26F4279F100 | **Cert #:** 28A9PB-D959FB
 
 ---
 
