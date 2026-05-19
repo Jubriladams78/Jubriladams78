@@ -2,12 +2,12 @@
 
 # Hi, I'm Jubril Adams 👋
 
-### Cloud Support Engineer | Cloud Systems Administrator | Azure & AWS | Terraform | IAM & Active Directory | AZ-104 | CompTIA Cloud+
+### IT Support Specialist | Windows & Linux Support | Azure Cloud & Network Engineering Student | Healthcare IT | Remote-Ready
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jubriladams-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jubriladams)
-[![Email](https://img.shields.io/badge/Email-jubril@jjadams.net-D14836?style=for-the-badge&logo=gmail)](mailto:jubril@jjadams.net)
+[![Email](https://img.shields.io/badge/Email-adam.jubril78@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:adam.jubril78@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Palatine%2C_IL-green?style=for-the-badge&logo=googlemaps)](#)
-[![Open to Work](https://img.shields.io/badge/Status-Open_to_Cloud_%26_IT_Roles-brightgreen?style=for-the-badge)](#)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_IT_%26_Cloud_Roles-brightgreen?style=for-the-badge)](#)
 
 </div>
 
@@ -15,107 +15,91 @@
 
 ## 👨‍💻 About Me
 
-Cloud Support Engineer and Cloud Systems Administrator with **6+ years of hands-on IT infrastructure experience**. I specialize in Azure and AWS cloud platforms, identity and access management (IAM), enterprise system administration, and infrastructure automation using Terraform, PowerShell, and GitHub Actions.
+IT Support Specialist with experience supporting Windows and Linux environments in healthcare. I bring strong troubleshooting, documentation, and customer service skills, plus a background in healthcare that strengthened my communication, patience, and problem-solving abilities.
 
-Currently working at **Aurora Home Care Inc** as an IT Support & Cloud Systems Analyst — managing Active Directory, ServiceNow ticketing, endpoint reliability, and onboarding workflows with a **99.8% SLA compliance rate** supporting 500+ users.
+I am currently pursuing a B.S. in Azure Cloud and Network Engineering at Western Governors University and building hands-on labs in Azure, networking, identity, and cloud support.
 
-- 🎓 Pursuing **B.S. Cloud & Network Engineering** at Western Governors University (WGU)
-- 🏗️ Building hands-on labs in Azure, Terraform, and PowerShell automation
-- 💼 Open to **Cloud Support Engineer**, **Cloud Systems Administrator**, and **DevOps Engineer** roles
-- 📍 Based in **Palatine, IL** (Greater Chicago Area)
-- 📧 Contact: jubril@jjadams.net
-
----
-
-## 🏢 Current & Past Roles
-
-| Company | Role | Period |
-|---|---|---|
-| **Aurora Home Care Inc** | IT Support & Cloud Systems Analyst | Sep 2025 – Present |
-| **Clearbrook** | Cloud Administrator (Linux/Windows) | Jan 2020 – Present |
+- 🎓 Pursuing **B.S. in Azure Cloud and Network Engineering** at Western Governors University
+- 🏗️ Building hands-on labs in Azure, Windows, Linux, and networking
+- 💼 Open to **IT Support**, **Cloud Support**, and **Junior Azure** roles
+- 📍 Based in **Palatine, IL**
+- 📧 Contact: [adam.jubril78@gmail.com](mailto:adam.jubril78@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🏢 Experience
 
-**Cloud Platforms**
-- Microsoft Azure (VNet, NSG, Azure Key Vault, Azure Monitor, Log Analytics, Entra ID)
-- AWS (EC2, S3, RDS, VPC, IAM, CloudWatch)
+### IT Support Specialist — Aurora Home Care Inc.
+**Northbrook, IL** | **December 2024 – Present**
 
-**Infrastructure & IaC**
-- Terraform | Ansible | CloudFormation | GitHub Actions | Jenkins | Docker
+- Provide daily technical support for Windows and Linux environments.
+- Troubleshoot hardware, software, account access, and connectivity issues.
+- Assist with user onboarding, password resets, and workstation setup.
+- Document incidents and resolutions to improve support consistency.
+- Communicate clearly with staff to reduce downtime and restore service quickly.
 
-**Systems Administration**
-- Windows Server | Linux (RHEL/Ubuntu/Rocky) | Active Directory | Microsoft Entra ID
-- Group Policy (GPO) | RBAC | MFA | Conditional Access
+### Direct Support Professional — Healthcare Field
+**14 years**
 
-**Scripting & Automation**
-- PowerShell | Azure CLI | Bash | Python (basic)
+- Supported individuals with daily routines, communication, and care-related needs.
+- Documented incidents and observations accurately and professionally.
+- Followed structured procedures and maintained confidentiality.
+- Built strong empathy, patience, and service-focused communication skills.
 
-**IT Support & ITSM**
-- ServiceNow | Help Desk Operations | SLA Management | Incident Response | ITIL
+---
 
-**Monitoring & Security**
-- Azure Monitor | Log Analytics | CloudWatch | Zero Trust | Azure Key Vault
+## 🛠️ Skills
+
+- Windows Support
+- Linux Support
+- IT Support
+- Help Desk
+- Troubleshooting
+- Networking Basics
+- Active Directory
+- Microsoft Entra ID
+- Azure Fundamentals
+- Remote Support
+- Technical Documentation
+- Incident Management
+- Customer Service
+- GitHub
+- VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ Azure Blob Storage Static Website
-- Deployed first public-facing Azure resource using Blob Storage (PaaS / Serverless hosting)
-- Configured static website endpoint, public access, and Azure storage account
-- **Tools:** Azure Portal, Azure CLI, GitHub
+### Azure Resource Hierarchy Lab
+Built and documented an Azure resource hierarchy, tagging strategy, and governance workflow.
 
-### 🏗️ Cloud Infrastructure Automation (AWS & Azure)
-- Automated secure, highly available cloud infrastructure using Terraform and GitHub Actions
-- Provisioned compute, networking, IAM, and storage with security-first design
-- Implemented monitoring, tagging, and cost-optimization best practices
-- **Tools:** Terraform, GitHub Actions, AWS, Azure
+### Identity and RBAC Lab
+Practiced Azure identity, access management, and role-based access control concepts.
 
-### 🔐 Zero Trust & IAM Implementation
-- Implemented identity-based access controls using Azure Entra ID and RBAC
-- Configured Conditional Access policies, MFA, and encrypted data flows
-- Achieved 40% reduction in security vulnerabilities across managed environment
-- **Tools:** Azure Entra ID, Azure Key Vault, PowerShell, Azure Monitor
+### Windows and Linux Troubleshooting Notes
+Documented common support procedures and troubleshooting steps in a knowledge-base style format.
 
 ---
 
-## 🏅 Certifications
+## 🎯 Goals
 
-| Certification | Issuer | Earned | Expires |
-|---|---|---|---|
-| ✅ Microsoft Azure Administrator Associate (AZ-104) | Microsoft | Feb 27, 2026 | Feb 27, 2027 |
-| ✅ Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | - |
-| ✅ CompTIA Cloud+ ce | CompTIA | Jan 2026 | Jan 2029 |
-| ✅ CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA | Jan 2026 | - |
-| ✅ ITIL Foundation | PeopleCert | Jan 2026 | Jan 2029 |
-| ✅ CompTIA Network+ | CompTIA | - | - |
-
-> **AZ-104 Credential ID:** 3FC7E26F4279F100 | **Cert #:** 28A9PB-D959FB
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jubril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jubriladams78&show_icons=true&theme=dark&hide_border=true)
-
-</div>
+- Build a strong cloud and IT support portfolio.
+- Earn Azure certifications.
+- Qualify for remote IT support and junior cloud roles.
+- Continue growing into Azure operations and cloud support.
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 **LinkedIn:** [linkedin.com/in/jubriladams](https://www.linkedin.com/in/jubriladams)
-- 📧 **Email:** jubril@jjadams.net
-- 📍 **Location:** Palatine, IL (Greater Chicago Area)
+- LinkedIn: [linkedin.com/in/jubriladams](https://www.linkedin.com/in/jubriladams)
+- Email: [adam.jubril78@gmail.com](mailto:adam.jubril78@gmail.com)
+- Location: Palatine, IL
 
 ---
 
 <div align="center">
 
-*Open to Cloud Support Engineer, Cloud Systems Administrator, Systems Administrator, and DevOps Engineer roles across the United States.*
+*Open to IT Support, Cloud Support, and Junior Azure roles across the United States.*
 
 </div>
