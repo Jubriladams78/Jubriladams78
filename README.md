@@ -1,17 +1,18 @@
 # Jubril Adams
 
-Direct Support Professional transitioning into healthcare IT, pairing a 12+ year, four-employer background in clinical documentation with independently earned cloud and IT certifications and hands-on home lab work.
+IT support professional in transition, with 12+ years of Direct Support Professional experience in regulated healthcare and community based settings, independently earned cloud and IT certifications, and hands on home lab work.
 
 Palatine, IL | [Portfolio](https://jubriladams78.github.io) | [LinkedIn](https://linkedin.com/in/jubriladams) | adam.jubril78@gmail.com
 
 ## About
 
-I've spent over a decade as a Direct Support Professional across four organizations, with continuous, gap-free employment built on accurate, regulation-compliant documentation: medication records, incident reports, and electronic health record (EHR) use for scheduling and care logging. I'm now applying that same documentation discipline to IT, aiming for healthcare IT and EHR-adjacent roles such as Epic Abstractor, while building the hands-on technical skills to back it up.
+I have spent more than a decade as a Direct Support Professional across four organizations, building accurate, regulation compliant documentation habits: medication records, incident reports, and electronic health record (EHR) use for scheduling and care logging. I am now applying that same documentation discipline to IT, targeting IT Support, Help Desk, Desktop Support, Microsoft 365 Support, Healthcare IT, and Junior Systems Administration roles, while building the hands on technical skills to back it up.
 
 ## Certifications
 
 * Microsoft Certified: Azure Administrator Associate (AZ 104)
 * Microsoft Azure Fundamentals (AZ 900)
+* Microsoft AZ 305 exam: passed
 * AWS Certified Solutions Architect, Associate
 * AWS Certified Cloud Practitioner
 * CompTIA A+, Network+, Security+, Cloud+
@@ -19,15 +20,24 @@ I've spent over a decade as a Direct Support Professional across four organizati
 * Linux Essentials
 * CPR/First Aid, American Heart Association
 
-## Featured labs
+## Published labs
 
-**[it help desk simulation lab](https://github.com/Jubriladams78/it-help-desk-simulation-lab)**
-A full help desk environment built on Hyper V: Active Directory domain setup, password reset and account unlock, remote support triage, network troubleshooting, software and patch management, and ticket documentation, each written up as a ticket-style SOP with a working script.
+**[Azure resource hierarchy lab](https://github.com/Jubriladams78/Azure-resource-hierarchy-lab)**
+Azure governance lab covering management groups, subscriptions, resource groups, RBAC, Azure Policy, tagging, compliance, and cost controls, built with Terraform.
 
-**[windows linux sysadmin lab](https://github.com/Jubriladams78/windows-linux-sysadmin-lab)**
-Six projects covering core Windows and Linux system administration: Active Directory, file server and NTFS permissions, Linux web server deployment and troubleshooting, Linux user management and automated backups, cross-platform health monitoring, and DHCP/Group Policy validated in a routed, VLAN-segmented Cisco Packet Tracer network.
+**[Git version control lab](https://github.com/Jubriladams78/git-version-control-lab)**
+Git branching workflow lab simulating a consulting engagement, with merge conflict resolution and semantic versioning.
+
+## Labs in progress
+
+These are self directed learning labs, not production work. Repositories will be published here as each one is completed and documented.
+
+* Windows enterprise home lab: Windows Server 2025 and Windows 11 Enterprise on Hyper V, with a virtual switch, static IP addressing, and NAT
+* Active Directory domain lab: domain controller, organizational units, security groups, Group Policy, and PowerShell user administration
+* Service desk simulation: simulated tickets covering password resets, account lockouts, VPN, DNS, and network troubleshooting, with ticket style documentation
+* Microsoft 365 tenant administration: users, licensing, Entra ID MFA, Exchange Online, Teams, SharePoint, and onboarding and offboarding checklists
+* Network troubleshooting: IPv4, subnetting, VLANs, DNS, DHCP, NAT, and VPN scenarios with documented root causes and fixes
 
 ## Currently
 
-Completing a B.S. in Cloud Computing at Western Governors University, and building out the two labs above end-to-end this week, from environment setup through documentation and screenshot evidence.
-
+Completing a B.S. in Cloud and Network Engineering, Microsoft Azure, at Western Governors University (expected December 2027), and documenting each lab with configuration steps, troubleshooting notes, and screenshot evidence.
