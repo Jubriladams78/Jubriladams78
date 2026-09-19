@@ -2,7 +2,7 @@
 
 IT support professional in transition, with 12+ years of Direct Support Professional experience in regulated healthcare and community based settings, independently earned cloud and IT certifications, and hands on home lab work.
 
-Palatine, IL | [Portfolio](https://jubriladams78.github.io) | [LinkedIn](https://linkedin.com/in/jubriladams) | adam.jubril78@gmail.com
+Palatine, IL | [LinkedIn](https://linkedin.com/in/jubriladams) | adam.jubril78@gmail.com
 
 ## About
 
