@@ -32,6 +32,8 @@ Git branching workflow lab simulating a consulting engagement, with merge confli
 
 These are self directed learning labs, not production work. Repositories will be published here as each one is completed and documented.
 
+The [IT Administration Portfolio](https://github.com/Jubriladams78/it-admin-portfolio) tracks the honest status of every lab.
+
 * Windows enterprise home lab: Windows Server 2025 and Windows 11 Enterprise on Hyper V, with a virtual switch, static IP addressing, and NAT
 * Active Directory domain lab: domain controller, organizational units, security groups, Group Policy, and PowerShell user administration
 * Service desk simulation: simulated tickets covering password resets, account lockouts, VPN, DNS, and network troubleshooting, with ticket style documentation
