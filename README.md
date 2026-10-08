@@ -22,6 +22,9 @@ I have spent more than a decade as a Direct Support Professional across four org
 
 ## Published labs
 
+**[Windows Server 2025 Active Directory, DNS and Group Policy lab](https://github.com/Jubriladams78/windows-server-2025-ad-dns-gpo-lab)**
+Two Hyper V virtual machines (a Windows Server 2025 domain controller and a Windows 11 Enterprise workstation) on an internal virtual switch with static IP addressing. Covers Active Directory, DNS, an OU layout, a security group, Group Policy, and an SMB departmental share with NTFS permissions and a mapped drive, documented step by step.
+
 **[Azure resource hierarchy lab](https://github.com/Jubriladams78/Azure-resource-hierarchy-lab)**
 Azure governance lab covering management groups, subscriptions, resource groups, RBAC, Azure Policy, tagging, compliance, and cost controls, built with Terraform.
 
@@ -34,8 +37,6 @@ These are self directed learning labs, not production work. Repositories will be
 
 The [IT Administration Portfolio](https://github.com/Jubriladams78/it-admin-portfolio) tracks the honest status of every lab.
 
-* Windows enterprise home lab: Windows Server 2025 and Windows 11 Enterprise on Hyper V, with a virtual switch, static IP addressing, and NAT
-* Active Directory domain lab: domain controller, organizational units, security groups, Group Policy, and PowerShell user administration
 * Service desk simulation: simulated tickets covering password resets, account lockouts, VPN, DNS, and network troubleshooting, with ticket style documentation
 * Microsoft 365 tenant administration: users, licensing, Entra ID MFA, Exchange Online, Teams, SharePoint, and onboarding and offboarding checklists
 * Network troubleshooting: IPv4, subnetting, VLANs, DNS, DHCP, NAT, and VPN scenarios with documented root causes and fixes
