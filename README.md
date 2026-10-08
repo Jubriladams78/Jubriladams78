@@ -1,46 +1,34 @@
 # Jubril Adams
 
-IT support professional in transition, with 12+ years of Direct Support Professional experience in regulated healthcare and community based settings, independently earned cloud and IT certifications, and hands on home lab work.
+IT support professional in transition, based in the Chicago area. I bring more than twelve years as a Direct Support Professional in regulated healthcare settings, where I document care under HIPAA, work daily in an EHR system, and troubleshoot devices, printers, and network issues for staff and residents. I am now targeting IT Support, Help Desk, Desktop Support, Microsoft 365 Support, Healthcare IT, and Junior Systems Administration roles.
 
-Palatine, IL | [LinkedIn](https://linkedin.com/in/jubriladams) | adam.jubril78@gmail.com
+The projects here are self directed home labs and coursework. They are hands on learning environments, not production employment.
 
-## About
+## Featured Labs
 
-I have spent more than a decade as a Direct Support Professional across four organizations, building accurate, regulation compliant documentation habits: medication records, incident reports, and electronic health record (EHR) use for scheduling and care logging. I am now applying that same documentation discipline to IT, targeting IT Support, Help Desk, Desktop Support, Microsoft 365 Support, Healthcare IT, and Junior Systems Administration roles, while building the hands on technical skills to back it up.
+* **[Windows Server 2025 Home Lab](https://github.com/Jubriladams78/windows-server-2025-ad-dns-gpo-lab)**: a Hyper V domain with a Windows Server 2025 domain controller and a Windows 11 client. I built OUs, security groups, SMB shares with NTFS permissions, and Group Policy drive maps, and documented the troubleshooting along the way.
+* **[Azure Resource Hierarchy Lab](https://github.com/Jubriladams78/Azure-resource-hierarchy-lab)**: management groups, subscriptions, RBAC, Azure Policy, tagging, and budget alerts, with design reasoning and screenshot evidence.
+* **[Git Version Control Lab](https://github.com/Jubriladams78/git-version-control-lab)**: a branching workflow with semantic version tags.
+
+## Tools I Practice With
+
+Windows 11, Windows Server, Active Directory, Group Policy, Microsoft Entra ID, Microsoft 365, Azure, AWS, Hyper V, PowerShell, Terraform, Linux, DNS, DHCP, TCP/IP
 
 ## Certifications
 
-* Microsoft Certified: Azure Administrator Associate (AZ 104)
-* Microsoft Azure Fundamentals (AZ 900)
-* Microsoft AZ 305 exam: passed
+* Microsoft Certified: Azure Solutions Architect Expert
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
+* Microsoft Certified: Azure Fundamentals (AZ-900)
 * AWS Certified Solutions Architect, Associate
 * AWS Certified Cloud Practitioner
-* CompTIA A+, Network+, Security+, Cloud+
+* CompTIA Security+, Network+, Cloud+, and A+
 * ITIL 4 Foundation
-* Linux Essentials
-* CPR/First Aid, American Heart Association
+* LPI Linux Essentials
 
-## Published labs
+## Education
 
-**[Windows Server 2025 Active Directory, DNS and Group Policy lab](https://github.com/Jubriladams78/windows-server-2025-ad-dns-gpo-lab)**
-Two Hyper V virtual machines (a Windows Server 2025 domain controller and a Windows 11 Enterprise workstation) on an internal virtual switch with static IP addressing. Covers Active Directory, DNS, an OU layout, a security group, Group Policy, and an SMB departmental share with NTFS permissions and a mapped drive, documented step by step.
+B.S. Cloud and Network Engineering, Microsoft Azure, Western Governors University (expected December 2027)
 
-**[Azure resource hierarchy lab](https://github.com/Jubriladams78/Azure-resource-hierarchy-lab)**
-Azure governance lab covering management groups, subscriptions, resource groups, RBAC, Azure Policy, tagging, compliance, and cost controls, built with Terraform.
+## Contact
 
-**[Git version control lab](https://github.com/Jubriladams78/git-version-control-lab)**
-Git branching workflow lab simulating a consulting engagement, with merge conflict resolution and semantic versioning.
-
-## Labs in progress
-
-These are self directed learning labs, not production work. Repositories will be published here as each one is completed and documented.
-
-The [IT Administration Portfolio](https://github.com/Jubriladams78/it-admin-portfolio) tracks the honest status of every lab.
-
-* Service desk simulation: simulated tickets covering password resets, account lockouts, VPN, DNS, and network troubleshooting, with ticket style documentation
-* Microsoft 365 tenant administration: users, licensing, Entra ID MFA, Exchange Online, Teams, SharePoint, and onboarding and offboarding checklists
-* Network troubleshooting: IPv4, subnetting, VLANs, DNS, DHCP, NAT, and VPN scenarios with documented root causes and fixes
-
-## Currently
-
-Completing a B.S. in Cloud and Network Engineering, Microsoft Azure, at Western Governors University (expected December 2027), and documenting each lab with configuration steps, troubleshooting notes, and screenshot evidence.
+[LinkedIn](https://www.linkedin.com/in/jubriladams) · adam.jubril78@gmail.com
