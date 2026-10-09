@@ -16,8 +16,8 @@ Windows 11, Windows Server, Active Directory, Group Policy, Microsoft Entra ID, 
 
 ## Certifications
 
-* Microsoft Certified: Azure Solutions Architect Expert
 * Microsoft Certified: Azure Administrator Associate (AZ-104)
+* Microsoft AZ-305 exam (Azure Solutions Architect): passed
 * Microsoft Certified: Azure Fundamentals (AZ-900)
 * AWS Certified Solutions Architect, Associate
 * AWS Certified Cloud Practitioner
