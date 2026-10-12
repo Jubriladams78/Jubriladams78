@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Title,Department,OU,Groups
+100451,Maria,Lopez,Registered Nurse,Nursing,Clinical,SG-EHR-Nursing;SG-Clinical-All
+100452,David,Chen,Financial Analyst,Finance,Corporate,SG-Finance-Share-RW;SG-Corporate-All
+100453,Aisha,Bello,Patient Access Rep,Patient Access,Clinical,SG-EHR-Registration;SG-Clinical-All
+100454,James,O'Brien,Service Desk Analyst,IT,IT,SG-IT-ServiceDesk;SG-Corporate-All
+100455,Priya,Nair,Marketing Coordinator,Marketing,Corporate,SG-Marketing-Share-RW;SG-Corporate-All

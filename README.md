@@ -6,6 +6,7 @@ The projects here are self directed home labs and coursework. They are hands on 
 
 ## Featured Labs
 
+* **[Enterprise Service Desk Simulation](service-desk-simulation/)**: 10 worked tickets (P1 to P4) for a fictional 62,000-user health system, with PowerShell tools for AD onboarding, account health, and endpoint triage, plus knowledge base articles and runbooks.
 * **[Windows Server 2025 Home Lab](https://github.com/Jubriladams78/windows-server-2025-ad-dns-gpo-lab)**: a Hyper V domain with a Windows Server 2025 domain controller and a Windows 11 client. I built OUs, security groups, SMB shares with NTFS permissions, and Group Policy drive maps, and documented the troubleshooting along the way.
 * **[Azure Resource Hierarchy Lab](https://github.com/Jubriladams78/Azure-resource-hierarchy-lab)**: management groups, subscriptions, RBAC, Azure Policy, tagging, and budget alerts, with design reasoning and screenshot evidence.
 * **[Git Version Control Lab](https://github.com/Jubriladams78/git-version-control-lab)**: a branching workflow with semantic version tags.
